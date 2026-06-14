@@ -48,4 +48,3 @@ pip install web3 requests
    python connect_public.py
    
    ```
-```
