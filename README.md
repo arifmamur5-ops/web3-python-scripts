@@ -10,7 +10,7 @@ Python automation scripts for Ethereum node interaction and public RPC infrastru
 - `send_tx.py` — Send ETH transactions programmatically
 - `interact_contract.py` — Read/write smart contract state
 
-## Advanced Infrastructure (Session 7)
+## Advanced Infrastructure
 The `connect_public.py` script tests the node accessibility over the public internet using a secure layered architecture:
 
 
