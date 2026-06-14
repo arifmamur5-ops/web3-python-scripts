@@ -15,3 +15,6 @@ pip install web3
 ## Usage
 Run Anvil first: `anvil`
 Then: `python <script>.py`
+
+## Advanced Infrastructure
+The `connect_public.py` script tests the node accessibility over the public internet using a secure layered architecture:
